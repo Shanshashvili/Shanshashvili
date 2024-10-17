@@ -10,7 +10,7 @@ My interest in DevOps engineering has grown significantly during this time, and 
 ## Skills
 ### During my DevOps studies, I had the opportunity to engage in hands-on labs and deepen my understanding of mentioned skills:
 
-- Networking: [CCNA - Routing and Switching](https://github.com/YourUsername/DevOps-Labs/tree/networking-ccna-lab)
+- Networking: [CCNA - Routing and Switching](https://github.com/Shanshashvili/DevOps_Labs/blob/networking-ccna-lab/README.md)
 - Operating Systems: [Linux System Administration RHEL9](https://github.com/YourUsername/DevOps-Labs/tree/linux-rhel9-lab)
 - Web Servers: [Apache HTTPD](https://github.com/YourUsername/DevOps-Labs/tree/apache-httpd-lab), [Nginx](https://github.com/YourUsername/DevOps-Labs/tree/nginx-lab)
 - Application Servers: [Apache Tomcat](https://github.com/YourUsername/DevOps-Labs/tree/tomcat-lab)
