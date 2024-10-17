@@ -11,14 +11,15 @@ My interest in DevOps engineering has grown significantly during this time, and 
 ### During my DevOps studies, I had the opportunity to engage in hands-on labs and deepen my understanding of mentioned skills:
 
 - Networking: [CCNA - Routing and Switching](https://github.com/Shanshashvili/DevOps_Labs/blob/networking-ccna-lab/README.md)
-- Operating Systems: [Linux System Administration RHEL9](https://github.com/YourUsername/DevOps-Labs/tree/linux-rhel9-lab)
-- Web Servers: [Apache HTTPD](https://github.com/YourUsername/DevOps-Labs/tree/apache-httpd-lab), [Nginx](https://github.com/YourUsername/DevOps-Labs/tree/nginx-lab)
-- Application Servers: [Apache Tomcat](https://github.com/YourUsername/DevOps-Labs/tree/tomcat-lab)
-- Programming & Scripting Languages: [Python](https://github.com/YourUsername/DevOps-Labs/tree/python-lab), [Bash Script](https://github.com/YourUsername/DevOps-Labs/tree/bash-script-lab)
-- CI/CD Tools: [Jenkins](https://github.com/YourUsername/DevOps-Labs/tree/jenkins-lab), [Docker](https://github.com/YourUsername/DevOps-Labs/tree/docker-lab)
-- Build & Dependency Management: [Maven](https://github.com/YourUsername/DevOps-Labs/tree/maven-lab)
-- Version Control: [GitHub (GitHub Action)](https://github.com/YourUsername/DevOps-Labs/tree/github-actions-lab), [GitLab (GitLab CI/DC)](README.md)
-- Databases: [MySQL](https://github.com/YourUsername/DevOps-Labs/tree/mysql-lab)
+- Operating Systems: [Linux System Administration RHEL9](https://github.com/Shanshashvili/DevOps_Labs/blob/linux-lab/README.md)
+- Web Servers: [Apache HTTPD](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-HTTPD-lab/README.md), [Nginx](https://github.com/Shanshashvili/DevOps_Labs/blob/Nginx-lab/README.md)
+- Application Servers: [Apache Tomcat](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-Tomcat-lab/README.md)
+- Programming & Scripting Languages: Python, Bash Script
+- CI/CD Tools: [Jenkins](https://github.com/Shanshashvili/DevOps_Labs/blob/Jenkins-Lab/README.md),
+- Build & Dependency Management: [Maven](https://github.com/Shanshashvili/DevOps_Labs/blob/Maven-Lab/README.md)
+- Containerization and Virtualization: [Docker](https://github.com/Shanshashvili/DevOps_Labs/blob/Docker-Lab/README.md)
+- Version Control: [GitHub (GitHub Action)](https://github.com/Shanshashvili/DevOps_Labs/blob/GitHub-lab/README.md), [GitLab (GitLab CI/DC)](https://github.com/Shanshashvili/DevOps_Labs/blob/GitLab-lab/README.md)
+- Databases: [MySQL](https://github.com/Shanshashvili/DevOps_Labs/blob/MySQL-Lab/README.md)
 
 
 During my learning journey, I had the opportunity to work with various tools such as SonarQube, Nexus, and AWS (including EC2, ECR, ECS, NLB/ELB), along with several databases.
