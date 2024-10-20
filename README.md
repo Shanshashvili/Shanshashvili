@@ -14,7 +14,7 @@ My interest in DevOps engineering has grown significantly during this time, and 
 - Operating Systems: [Linux System Administration RHEL9](https://github.com/Shanshashvili/DevOps_Labs/blob/linux-lab/README.md)
 - Web Servers: [Apache HTTPD](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-HTTPD-lab/README.md), [Nginx](https://github.com/Shanshashvili/DevOps_Labs/blob/Nginx-lab/README.md)
 - Application Servers: [Apache Tomcat](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-Tomcat-lab/README.md)
-- Programming & Scripting Languages: Python, Bash Script
+- Programming & Scripting Languages: Python, [Bash Script](https://github.com/Shanshashvili/bash-lab-scripts)
 - CI/CD Tools: [Jenkins](https://github.com/Shanshashvili/DevOps_Labs/blob/Jenkins-Lab/README.md),
 - Build & Dependency Management: [Maven](https://github.com/Shanshashvili/DevOps_Labs/blob/Maven-Lab/README.md)
 - Containerization and Virtualization: [Docker](https://github.com/Shanshashvili/DevOps_Labs/blob/Docker-Lab/README.md)
