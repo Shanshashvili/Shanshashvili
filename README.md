@@ -24,6 +24,8 @@ My interest in DevOps engineering has grown significantly during this time, and 
 
 During my learning journey, I had the opportunity to work with various tools such as SonarQube, Nexus, and AWS (including EC2, ECR, ECS, NLB/ELB), along with several databases.
 
+What's more, I have completed the **DevOps Fundamentals** course at **EPAM Systems**. I am eager to deepen my understanding of DevOps practices and tools, and I am highly motivated to apply what I have learned in real-world settings.
+
 I recognize that my current knowledge and skills in the DevOps field are not yet sufficient to fully meet the demands of a DevOps Engineer role. Therefore, I am committed to furthering my education and deepening my understanding of essential DevOps practices, tools, and methodologies. I am eager to explore advanced concepts and gain practical experience that will enable me to excel in this dynamic field.
 
 ## Contact Me
