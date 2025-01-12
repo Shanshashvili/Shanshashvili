@@ -17,7 +17,7 @@ My interest in DevOps engineering has grown significantly during this time, and 
 - Programming & Scripting Languages: Python, Bash Script
 - CI/CD Tools: [Jenkins](https://github.com/Shanshashvili/DevOps_Labs/blob/Jenkins-Lab/README.md),
 - Build & Dependency Management: [Maven](https://github.com/Shanshashvili/DevOps_Labs/blob/Maven-Lab/README.md)
-- Containerization and Virtualization: [Docker](https://github.com/Shanshashvili/DevOps_Labs/blob/Docker-Lab/README.md)
+- Containerization and Orchestration: [Kubernetes](https://github.com/Shanshashvili/DevOps_Labs/tree/Kubernetes) [Docker, Docker Compose](https://github.com/Shanshashvili/DevOps_Labs/blob/Docker-Lab/README.md)
 - Version Control: [GitHub (GitHub Action)](https://github.com/Shanshashvili/DevOps_Labs/blob/GitHub-lab/README.md), [GitLab (GitLab CI/DC)](https://github.com/Shanshashvili/DevOps_Labs/blob/GitLab-lab/README.md)
 - Databases: [MySQL](https://github.com/Shanshashvili/DevOps_Labs/blob/MySQL-Lab/README.md)
 
