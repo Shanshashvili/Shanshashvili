@@ -15,6 +15,9 @@ My interest in DevOps engineering has grown significantly during this time, and 
 - Web Servers: [Apache HTTPD](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-HTTPD-lab/README.md), [Nginx](https://github.com/Shanshashvili/DevOps_Labs/blob/Nginx-lab/README.md)
 - Application Servers: [Apache Tomcat](https://github.com/Shanshashvili/DevOps_Labs/blob/Apache-Tomcat-lab/README.md)
 - Programming & Scripting Languages: Python, Bash Script
+- Cloud Computing & Infrastructure: Microsoft Azure Cloud 3.5
+-	DevOps & CI/CD Services: Azure DevOps Services
+-	Infrastructure as Code (IaC) & Automation: Terraform
 - CI/CD Tools: [Jenkins](https://github.com/Shanshashvili/DevOps_Labs/blob/Jenkins-Lab/README.md),
 - Build & Dependency Management: [Maven](https://github.com/Shanshashvili/DevOps_Labs/blob/Maven-Lab/README.md)
 - Containerization and Orchestration: [Kubernetes](https://github.com/Shanshashvili/DevOps_Labs/tree/Kubernetes), [Docker, Docker Compose](https://github.com/Shanshashvili/DevOps_Labs/blob/Docker-Lab/README.md)
